@@ -1,0 +1,9 @@
+-------------Course of Study-------------
+1. The Big Picture: Software Engineering
+2. Fundamentals of Web Development
+3. Python Programming
+4. Backend Framework: Django
+5. Django REST framework
+6. Frontend Library: React
+7. Capstone Project: Final Project
+------------------------------------------

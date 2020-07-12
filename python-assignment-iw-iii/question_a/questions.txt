@@ -1,0 +1,11 @@
+Make pythonic solutions for each of the following data structure
+and algorithm problems.
+a) Bubble Sort
+b) Insertion Sort
+c) Quick Sort
+d) Merge Sort
+e) Linear Search
+f) Binary Search
+g) Interpolation Search
+h) Dijkstra’s Algorithm
+i) Tower of Hanoi problem for ‘n’ number of disks.
